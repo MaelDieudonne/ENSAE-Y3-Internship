@@ -1,8 +1,2 @@
-.ipynb_checkpoints/
-
-*.h5
-*.zip
-*.dta
-*.parquet
-
-/data/
+.ipynb_checkpoints
+.h5
