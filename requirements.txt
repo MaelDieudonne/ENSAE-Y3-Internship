@@ -1,5 +1,6 @@
-h5py
+requests
 matplotlib
 tables
 xlrd
 pyarrow
+statsmodels
