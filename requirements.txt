@@ -3,4 +3,5 @@ matplotlib
 tables
 xlrd
 pyarrow
-statsmodels
+scipy<=1.15.3
+statsmodels==0.14.4
