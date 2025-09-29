@@ -1,41 +1,103 @@
-parti,nuance,1978,1981,1986,1988,1993,1997,2002,2007,2012,2017,2022,2024
-SOC,centregauche_gauche,113,285,212,275,57,250,141,0,0,28,31,66
-COM,extremegauche_gaucheradicale,86,44,35,25,23,36,0,0,0,0,0,0
-CR,extremegauche_gaucheradicale,0,0,0,0,0,0,21,0,0,0,0,0
-RCV,centregauche_gauche,0,0,0,0,0,33,0,0,0,0,0,0
-SRC,centregauche_gauche,0,0,0,0,0,0,0,194,0,0,0,0
-GDR,extremegauche_gaucheradicale,0,0,0,0,0,0,0,21,15,15,0,0
-SER,centregauche_gauche,0,0,0,0,0,0,0,0,284,0,0,0
-RRDP,centregauche_gauche,0,0,0,0,0,0,0,0,18,0,0,0
-LT,centre,0,0,0,0,0,0,0,0,0,18,0,0
-LFI,extremegauche_gaucheradicale,0,0,0,0,0,0,0,0,0,17,0,0
-LFI-NUPES,extremegauche_gaucheradicale,0,0,0,0,0,0,0,0,0,0,75,0
-GDR-NUPES,centregauche_gauche,0,0,0,0,0,0,0,0,0,0,22,0
-LFI-NFP,extremegauche_gaucheradicale,0,0,0,0,0,0,0,0,0,0,0,71
-GDR,extremegauche_gaucheradicale,0,0,0,0,0,0,0,0,0,0,0,17
-LREM,centre,0,0,0,0,0,0,0,0,0,267,0,0
-RE,centre,0,0,0,0,0,0,0,0,0,0,169,0
-EPR,centre,0,0,0,0,0,0,0,0,0,0,0,94
-MODEM,centredroite_droite,0,0,0,0,0,0,0,0,0,57,0,0
-DEM,centredroite_droite,0,0,0,0,0,0,0,0,0,0,50,36
-RPR,centredroite_droite,154,88,155,132,257,140,0,0,0,0,0,0
-UMP,centredroite_droite,0,0,0,0,0,0,365,308,0,0,0,0
-LR,centredroite_droite,0,0,0,0,0,0,0,0,199,101,61,0
-HOR,centredroite_droite,0,0,0,0,0,0,0,0,0,0,31,33
-DR,centredroite_droite,0,0,0,0,0,0,0,0,0,0,0,48
-UDR,centredroite_droite,0,0,0,0,0,0,0,0,0,0,0,16
-UDF,centredroite_droite,123,62,131,90,215,82,29,0,0,0,0,0
-UDI,centredroite_droite,0,0,0,0,0,0,0,0,27,19,0,0
-AE,centre,0,0,0,0,0,0,0,0,0,22,0,0
-UDC,centre,0,0,0,41,0,0,0,0,0,0,0,0
-DL,centredroite_droite,0,0,0,0,0,30,0,0,0,0,0,0
-NC,centredroite_droite,0,0,0,0,0,0,0,24,0,0,0,0
-ECO-NUPES,centregauche_gauche,0,0,0,0,0,0,0,0,0,0,21,0
-ECOS,centregauche_gauche,0,0,0,0,0,0,0,0,0,0,0,38
-LIOT,centre,0,0,0,0,0,0,0,0,0,0,22,23
-RL,centre,0,0,0,0,23,0,0,0,0,0,0,0
-NI,autre,15,12,9,14,2,6,21,11,26,23,7,11
-FN-RN,extremedroite_droiteradicale,0,0,35,0,0,0,0,0,0,0,88,123
-Sièges vacants,,0,0,0,0,0,0,1,19,8,10,0,0
-,,,,,,,,,,,,,
-,,491,491,577,577,577,577,578,577,577,577,577,576
+Groupe parlementaire,Nuance,Année élection,Sièges,Proportion sièges
+RPR,centredroite_droite,1978,153,"0,3116089613"
+UDF (PR),centredroite_droite,1978,69,"0,1405295316"
+UDF (CDS),centredroite_droite,1978,35,"0,07128309572"
+UDF (PSD),centredroite_droite,1978,1,"0,002036659878"
+Parti radical,centredroite_droite,1978,9,"0,0183299389"
+CNIP,centredroite_droite,1978,7,"0,01425661914"
+Divers droite (Maj. prés.),centredroite_droite,1978,16,"0,03258655804"
+PS,centregauche_gauche,1978,104,"0,2118126273"
+MRG,centregauche_gauche,1978,10,"0,02036659878"
+Divers gauche,centregauche_gauche,1978,1,"0,002036659878"
+PCF,extremegauche_gaucheradicale,1978,86,"0,1751527495"
+,,,,
+SOC,centregauche_gauche,1981,285,"0,5804480652"
+RPR,centredroite_droite,1981,88,"0,1792260692"
+UDF,centredroite_droite,1981,62,"0,1262729124"
+COM,extremegauche_gaucheradicale,1981,44,"0,08961303462"
+NI,autre,1981,12,"0,02443991853"
+,,,,
+SOC,centregauche_gauche,1986,212,"0,3674176776"
+RPR,centredroite_droite,1986,155,"0,2686308492"
+UDF,centredroite_droite,1986,131,"0,2270363951"
+COM,extremegauche_gaucheradicale,1986,35,"0,06065857886"
+FN-RN,extremedroite_droiteradicale,1986,35,"0,06065857886"
+NI,autre,1986,9,"0,01559792028"
+,,,,
+Rassemblement pour la République,centredroite_droite,1988,128,"0,2218370884"
+Union pour la démocratie française,centredroite_droite,1988,130,"0,2253032929"
+Divers droite,centredroite_droite,1988,12,"0,02079722704"
+Parti socialiste,centregauche_gauche,1988,262,"0,4540727903"
+Divers gauche (Maj. prés.),centregauche_gauche,1988,6,"0,01039861352"
+Mouvement des radicaux de gauche,centregauche_gauche,1988,9,"0,01559792028"
+Parti communiste français,extremegauche_gaucheradicale,1988,27,"0,04679376083"
+Front national,extremedroite_droiteradicale,1988,1,"0,001733102253"
+NI,autre,1988,2,"0,003466204506"
+,,,,
+RPR,centredroite_droite,1993,257,"0,445407279"
+UDFC,centredroite_droite,1993,215,"0,3726169844"
+SOC,centregauche_gauche,1993,57,"0,09878682842"
+République et liberté,centre,1993,23,"0,03986135182"
+COM,extremegauche_gaucheradicale,1993,23,"0,03986135182"
+NI,autre,1993,2,"0,003466204506"
+,,,,
+"Socialiste, radical, citoyen",centregauche_gauche,1997,250,"0,4332755633"
+Rassemblement pour la République,centredroite_droite,1997,140,"0,2426343154"
+Union pour la démocratie française (1997-1998),centredroite_droite,1997,113,"0,1958405546"
+Communiste,extremegauche_gaucheradicale,1997,36,"0,06239168111"
+"Radical, citoyen et vert",centregauche_gauche,1997,33,"0,05719237435"
+NI,autre,1997,5,"0,008665511265"
+,,,,
+Union pour un mouvement populaire,centredroite_droite,2002,365,"0,6325823224"
+"Socialiste, radical, citoyen",centregauche_gauche,2002,141,"0,2443674177"
+UDF,centredroite_droite,2002,29,"0,05025996534"
+Communistes & Républicains,extremegauche_gaucheradicale,2002,21,"0,03639514731"
+NI,autre,2002,21,"0,03639514731"
+,,,,
+Union pour un mouvement populaire,centredroite_droite,2007,320,"0,554592721"
+"Socialiste, radical, citoyen",centregauche_gauche,2007,204,"0,3535528596"
+Nouveau Centre,centredroite_droite,2007,23,"0,03986135182"
+Gauche démocrate et républicaine,extremegauche_gaucheradicale,2007,24,"0,04159445407"
+NI,autre,2007,6,"0,01039861352"
+,,,,
+"Socialiste, républicain et citoyen[132]",centregauche_gauche,2012,295,"0,5112651646"
+Union pour un mouvement populaire[133],centredroite_droite,2012,196,"0,3396880416"
+Union des démocrates et indépendants[134],centredroite_droite,2012,29,"0,05025996534"
+Écologiste,centregauche_gauche,2012,18,"0,03119584055"
+"Radical, républicain, démocrate et progressiste[135]",centregauche_gauche,2012,15,"0,0259965338"
+Gauche démocrate et républicaine[136],extremegauche_gaucheradicale,2012,15,"0,0259965338"
+NI,autre,2012,9,"0,01559792028"
+,,,,
+La République en marche,centre,2017,314,"0,5441941075"
+Mouvement démocrate,centredroite_droite,2017,47,"0,08145580589"
+Les Républicains,centredroite_droite,2017,100,"0,1733102253"
+Les Constructifs,centredroite_droite,2017,35,"0,06065857886"
+Nouvelle Gauche,centregauche_gauche,2017,31,"0,05372616984"
+La France insoumise,extremegauche_gaucheradicale,2017,17,"0,0294627383"
+Gauche démocrate et républicaine,extremegauche_gaucheradicale,2017,16,"0,02772963605"
+NI,autre,2017,17,"0,0294627383"
+,,,,
+Renaissance,centre,2022,172,"0,2980935875"
+Rassemblement national,extremedroite_droiteradicale,2022,89,"0,1542461005"
+La France insoumise – Nouvelle Union populaire écologique et sociale,extremegauche_gaucheradicale,2022,75,"0,129982669"
+Les Républicains,centredroite_droite,2022,62,"0,1074523397"
+Démocrate (MoDem et indépendants),centredroite_droite,2022,48,"0,08318890815"
+Socialistes et apparentés (membre de l'intergroupe Nupes),centregauche_gauche,2022,31,"0,05372616984"
+Horizons et apparentés,centredroite_droite,2022,30,"0,05199306759"
+Écologiste – Nupes,centregauche_gauche,2022,23,"0,03986135182"
+Gauche démocrate et républicaine – Nupes,extremegauche_gaucheradicale,2022,22,"0,03812824957"
+"Libertés, Indépendants, Outre-mer et Territoires",centre,2022,16,"0,02772963605"
+NI,autre,2022,9,"0,01559792028"
+,,,,
+La France insoumise,extremegauche_gaucheradicale,2024,72,"0,1247833622"
+Socialistes et apparentés,centregauche_gauche,2024,66,"0,1143847487"
+Écologiste et social,centregauche_gauche,2024,38,"0,06585788562"
+Gauche démocrate et républicaine,extremegauche_gaucheradicale,2024,17,"0,0294627383"
+Ensemble pour la République,centre,2024,99,"0,1715771231"
+Les Démocrates,centredroite_droite,2024,36,"0,06239168111"
+Horizons & Indépendants,centredroite_droite,2024,31,"0,05372616984"
+Rassemblement national,extremedroite_droiteradicale,2024,126,"0,2183708839"
+AD![a],extremedroite_droiteradicale,2024,16,"0,02772963605"
+Droite républicaine,centredroite_droite,2024,47,"0,08145580589"
+"Libertés, indépendants, outre-mer et territoires",centre,2024,21,"0,03639514731"
+Non inscrits,autre,2024,8,"0,01386481802"
